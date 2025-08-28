@@ -2,7 +2,7 @@
 <h3 align="center">Founder | CMO | Sales Director at Visernic Limited</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca44b90d33c1ed42b20c5bb4eb.gif" alt="tech gif" width="70%" />
+  <img src="https://i.postimg.cc/zf6ByCwz/509608280-122172668420552414-1261254736712644899-n-modified.png" alt="Shoyaib Abdullah" width="10%" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ✅ Digital Marketing  
 ✅ IT Consulting
 
-🌐 Website: [visernic.com](https://visernic.com)
+🌐 Website: [visernic.com](https://shoyaib.profile.visernic.com)
 
 ---
 
