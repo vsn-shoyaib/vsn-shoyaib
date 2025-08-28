@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Md Shoyaib Abdullah</h1>
+<h3 align="center">Founder | CMO | Sales Director at Visernic Limited</h3>
 
-<!--
-**vsn-shoyaib/vsn-shoyaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca44b90d33c1ed42b20c5bb4eb.gif" alt="tech gif" width="70%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🔹 I'm the **Chief Marketing Officer (CMO)** at [Visernic Limited](https://visernic.com)  
+🔹 Passionate about digital marketing, branding, and business strategy  
+🔹 Leading innovative campaigns and driving digital growth  
+🔹 Based in **Naogaon, Rājshāhi, Bangladesh**
+
+---
+
+### 🏢 Workplace
+
+**Visernic Limited** is a cutting-edge tech company providing:  
+✅ Web & Mobile App Development  
+✅ UI/UX Design  
+✅ Digital Marketing  
+✅ IT Consulting
+
+🌐 Website: [visernic.com](https://visernic.com)
+
+---
+
+### 🛠️ Tools & Technologies
+
+```bash
+📊 Marketing Tools: Meta Ads, Google Analytics, HubSpot  
+🖥️ Tech Collaboration: Trello, Slack, Notion  
+📈 Strategy: SEO, CRO, Funnel Building, Content Marketing
